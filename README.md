@@ -21,11 +21,11 @@ El modelo lógico se estructuró mediante tablas de hechos y dimensiones para op
 - **Tablas de Hechos:** `Homicidios_Dolosos`, `Robos`, `Variables_Seguridad`.
 - **Dimensiones:** `Territorio` (Nación, Provincia, Departamento), `Tiempo` (Año, Mes), `Mecanismo`, `Lugar_Homicidio`, `Tipo_Robo`.
 
-> ![Diseño Lógico](./model/diseno_logico.png) *(Nota: Asegurate de subir tu imagen a la carpeta /model)*
+> ![Diseño Lógico](./model/diseno_logico.png) 
 
 ## 🛠️ Tecnologías Utilizadas
-- **Modelado de Datos:** [LucidChart / SQL Server Management Studio]
-- **Procesamiento:** [Mencionar si usaron Excel, SQL o Python para la limpieza]
+- **Modelado de Datos:** PostgreSQL.
+- **Procesamiento:** PostgreSQL.
 - **Documentación:** PDF Técnico.
 
 ## 📊 Principales Indicadores (KPIs)
