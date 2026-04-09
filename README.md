@@ -21,7 +21,7 @@ El modelo lógico se estructuró mediante tablas de hechos y dimensiones para op
 - **Tablas de Hechos:** `Homicidios_Dolosos`, `Robos`, `Variables_Seguridad`.
 - **Dimensiones:** `Territorio` (Nación, Provincia, Departamento), `Tiempo` (Año, Mes), `Mecanismo`, `Lugar_Homicidio`, `Tipo_Robo`.
 
-> ![Diseño Lógico](./dataeng/diseño.jpg) 
+> ![Diseño Lógico](.diseño.jpg) 
 
 ## 🛠️ Tecnologías Utilizadas
 - **Modelado de Datos:** PostgreSQL.
